@@ -1,0 +1,9 @@
+{
+  "name": "lafco-entrance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node build.mjs"
+  }
+}
